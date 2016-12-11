@@ -201,3 +201,46 @@ pre {
         }
     }
 }
+
+.home {
+	font-family: $secondary-font-family
+}
+
+.content {
+	text-align: center;
+	font-weight: 400;
+}
+
+.center {
+	width: 500px;
+	height: 400px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -150px;
+}
+
+.greetings{
+	font-size: 17pt;
+	line-height: 23pt;
+	color: #4D4D4D;
+}
+
+.highlight{
+	color: #000000;
+}
+
+.main-header {
+
+	font-size: 40pt;
+	line-height: 40pt;
+	margin-bottom: 10px;
+	/*letter-spacing: 3px;*/
+}
+
+.main-nav{
+	font-family: 'Merriweather', serif;
+	margin:10px 10px;
+	font-size: 14pt;
+}
