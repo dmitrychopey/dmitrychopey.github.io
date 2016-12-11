@@ -1,7 +1,25 @@
----
-layout: home
----
-<div class="home">
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Dmitry Chopey</title>
+  <meta name="description" content="Passionate web developer who likes creating interesting and unusual solutions with clear and maintainable code
+">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://dmitry-chopey.com/">
+  <link rel="alternate" type="application/rss+xml" title="Dmitry Chopey" href="http://dmitry-chopey.com/feed.xml" />
+</head>
+
+
+  <body>
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
   <div class="content center">
      <h1 class="main-header"> DMITRY CHOPEY</h1>
      <div class="greetings"> 
@@ -10,12 +28,29 @@ layout: home
 
       </div>
       <nav class="main-nav">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> |
-          {% endif %}
-        {% endfor %}
+        
+          
+          <a class="page-link" href="/about/">About me</a> |
+          
+        
+          
+          <a class="page-link" href="/blog/">Blog</a> |
+          
+        
+          
+        
+          
+        
+          
+        
 	 <a href="_assets/downloads/DMITRY_CHOPEY.pdf">CV</a>
       </nav>
   </div>
 </div>
+
+      </div>
+    </div>
+
+  </body>
+
+</html>
