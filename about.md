@@ -3,9 +3,8 @@ layout: page
 title: About me
 permalink: /about/
 ---
+Hi! Nice to meet you, friend. My name is Dmitry. I am Ruby on Rails developer from Ukraine.
+I am trying to write some blog to maintain and enhance my writting, french, english and programming skills in that way.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Salut! Je suis heureux de te rencontrer, mon ami. Je m'appelle Dmitry. 
+Je suis développeur Ruby on Rails d'Ukraine et j'essaie d'écrire un blog pour maintenir et améliorer mes compétences en écriture, français, anglais et de programmation de cette façon;)
